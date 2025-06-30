@@ -1,0 +1,29 @@
+.navbar-container{
+    padding: 2rem;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    border-radius: 2rem;
+    a{
+        font-size: 2rem;
+        color: blue;
+        font-weight: 600;
+        background-color: aqua;
+        border-radius: 1rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* .navbar-container a{
+    font-size: 2rem;
+    color: blue;
+    font-weight: 600;
+    background-color: aqua;
+    border-radius: 1rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+} */

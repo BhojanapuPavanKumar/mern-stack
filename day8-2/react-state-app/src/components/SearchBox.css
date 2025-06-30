@@ -1,0 +1,15 @@
+.Search-Box{
+    position:fixed;
+    right: 100px;
+    input{
+        width: 200px;
+        height: 2rem;
+        font-size: 14px;
+    }
+    button{
+        height: 3rem;
+        width: 70px;
+        font-size: 14px;
+        border-radius: 1rem;
+    }
+}

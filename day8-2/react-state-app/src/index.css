@@ -1,0 +1,40 @@
+/* .card{
+    color: aqua;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 2rem;
+    width:60%;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    border-radius: 2rem;
+    height: 15%;
+}
+.card1{
+  background-color: aqua;
+  display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 2rem;
+    width:60%;
+    position: absolute;
+    border-radius: 2rem;
+    height: 50%;
+}
+
+h1{
+    height: 5rem;
+    background-color:blue;
+    border-radius: 1rem;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+  color: rgb(109, 252, 6);
+  font-weight: 900;
+  font-size: 20px;
+} */

@@ -1,0 +1,12 @@
+install node from open source
+npm init -y
+npmjs.com
+npm i react
+npm i react-dom
+creates node_modules and package_lock.json
+In package.json --> dependies array is created
+we need bundler?(snipcart.com/javascript-module-bundler)
+we are going to use parcel (since it is easy to setup and well help us build and understand react app from scratch)
+npm i parcel
+>>to run the app:
+    >>npx parcel index.html

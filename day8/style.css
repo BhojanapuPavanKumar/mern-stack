@@ -1,0 +1,21 @@
+.card{
+    color: aqua;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 2rem;
+    width:50%;
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    border-radius: 2rem;
+    height: 15%;
+}
+
+h1{
+    height: 5rem;
+    background-color:blue;
+    border-radius: 1rem;
+    width: 30%;
+}

@@ -1,0 +1,24 @@
+div{
+    color: aqua;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 2rem;
+    width:60%;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    border-radius: 2rem;
+    height: 15%;
+}
+
+h1{
+    height: 5rem;
+    background-color:blue;
+    border-radius: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
