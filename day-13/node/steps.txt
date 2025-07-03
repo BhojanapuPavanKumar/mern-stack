@@ -1,0 +1,5 @@
+download
+node && npm -v
+npm init -y
+create app.js
+node app.js or app
