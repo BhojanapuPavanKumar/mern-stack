@@ -1,0 +1,6 @@
+npm create vite@latest
+npm i
+npm install tailwindcss @tailwindcss/vite
+import tailwindcss from '@tailwindcss/vite' in vite.config.js
+npm i react-router react-icons react-spinners react-loading-skeleton
+npm i cors (in backend)

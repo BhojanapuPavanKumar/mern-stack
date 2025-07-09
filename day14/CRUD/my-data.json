@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Likhilesh",
+        "city": "tel",
+        "score": 65,
+        "id": "0626d58f-9916-4e8f-81d0-939ca528309a"
+    },
+    {
+        "name": "Anuj",
+        "city": "Noida",
+        "id": "f31bcca5-6fe5-4a63-a27a-9746e63bd527"
+    },
+    {
+        "name": "Likhilesh",
+        "city": "Delhi",
+        "score": 65,
+        "id": "1aa99ac6-4dba-4f7c-8b37-c4f8f93e7256"
+    },
+    {
+        "name": "Anuj",
+        "city": "Noida",
+        "id": "4027d536-60e9-4153-803a-ceece2314d2d"
+    }
+]

@@ -1,0 +1,17 @@
+ORM(object related model)
+Mongoose is an Object Data Modeling (ODM) from mongodb Library
+steps
+==> npm i express mongodb mongoose
+==> npm i -g nodemon 
+==> nodemon app.js
+==> mongoose docs, mongodb(website) create database and collection
+
+==> Schema--> model-->document
+                --> collection
+
+==> npm i dotenv(for env use)
+
+MVC--> Model View Controller
+M-> Database
+V-> Frontend
+C-> Backend Logic

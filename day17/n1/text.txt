@@ -1,0 +1,9 @@
+MVC--> Model View Controller
+M-> Database
+V-> Frontend
+C-> Backend Logic
+
+=>npm init -y
+=>npm i express mongodb mongoose dotenv
+
+express.js--> is applevel middleware
