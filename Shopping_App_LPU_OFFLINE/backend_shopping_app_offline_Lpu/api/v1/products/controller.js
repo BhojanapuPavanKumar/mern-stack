@@ -76,7 +76,7 @@ const updateProductController = async (req, res) => {
       isSuccess: true,
       message: "Product updated successfully",
       data: {
-        product: updateItem,
+        products: updateItem,
       },
     });
   } catch (err) {
@@ -104,7 +104,7 @@ const deleteProductController = async (req, res) => {
       isSuccess: true,
       message: "Product Deleted",
       data: {
-        product: deletedItem,
+        products: deletedItem,
       },
     });
   } catch (err) {
